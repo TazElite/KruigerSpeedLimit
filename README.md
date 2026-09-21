@@ -1,3 +1,5 @@
+![KruigerSpeedLimit](assets/banner.png)
+
 # KruigerServerSpeed
 
 A standalone FiveM resource for enforcing configurable server-wide vehicle speed limits with optional vehicle-class limits and ACE-based higher speed tiers.
