@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'KruigerLabs'
+author 'Kruiger Labs LLC'
 name 'KruigerServerSpeed'
-description 'Standalone configurable server-wide vehicle speed limiter with ACE speed tiers.'
+description 'Free standalone FiveM speed limit script with configurable server-wide and ACE-based speed limits.'
 version '1.0.0'
 
 shared_script 'config.lua'
