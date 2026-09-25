@@ -35,3 +35,7 @@ add_ace group.admin kruiger.speed.bypass allow
 Licensed under the **Kruiger Labs Community License v1.0**. See `LICENSE` for complete terms.
 
 Developed by Kruiger Labs LLC (`KruigerLabs`).
+
+## Kruiger Labs
+
+**Project Page:** https://kruigerlabs.xyz/projects/KruigerSpeedLimit/
